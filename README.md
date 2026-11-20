@@ -12,11 +12,11 @@ Trường Đại học Công nghệ Thông tin, ĐHQG-HCM
 
 | Tài liệu | Tập tin |
 |---|---|
-| Đề cương chi tiết (Google Docs) | *đang cập nhật* |
-| Slide thuyết trình (Google Slides) | *đang cập nhật* |
+| Đề cương chi tiết (Google Docs) | [CS2205.AUG2026.DeCuong.Doc.pdf](CS2205.AUG2026.DeCuong.Doc.pdf) |
+| Slide thuyết trình (Google Slides) | [CS2205.AUG2026.DeCuong.Slide.pdf](CS2205.AUG2026.DeCuong.Slide.pdf) |
 | Poster A3 (Google Slides) | [CS2205.AUG2026.DeCuong.Poster.pdf](CS2205.AUG2026.DeCuong.Poster.pdf) |
 
-**Video trình bày (YouTube):** *đang cập nhật*
+**Video trình bày (YouTube):** https://youtu.be/DwbyRQDFmBQ
 
 ## Tóm tắt
 
